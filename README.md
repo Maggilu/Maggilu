@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Ven a mirar mi perfil!!</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Mi nombre es Margarita, actualmente estoy aprendiendo a desarrollar aplicaciones Full Stack Java Trainee</p>
 
 ###
 
